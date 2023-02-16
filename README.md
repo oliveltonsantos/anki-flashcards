@@ -10,8 +10,14 @@ São cartões de papel ou digitais (como neste caso) que tem o objetivo de testa
 
 Utilizo um aplicativo chamado Anki, ele tem versão para celular (Android e iPhone) e computador (Windows, macOS e Linux). Para baixar o Anki clique aqui.
 
+## 💻 Como instalar o Anki e usar no meu computador?
+
+O processo de instalação de pode ser um pouco diferente dependendo do sistema operacional que você utiliza, entretanto a interface do Anki é igual independente do sistema operacional (Windows, macOS e Linux). Para aprender a como utilizar o Anki assista este vídeo clicando aqui.
+
 ## ⬇️ Como baixar os meus flashcards?
 
-Primeiro você baixar 
+- 1. Baixa os arquivos deste repositório.
+- 2. Extraia os arquivos do download.
+- 3. No aplicativo Anki clique na opção "Importar arquivo", selecione o arquivo "Code.apkg" e agora basta esperar terminar o processo de importação.
  
  
