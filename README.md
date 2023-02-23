@@ -14,8 +14,7 @@ São cartões de papel ou digitais (como neste caso) com o objetivo de testar a 
 
 Utilizo um aplicativo chamado Anki, ele tem versão para celular (Android e iPhone) e computador (Windows, macOS e Linux). Para baixar o Anki clique [aqui](https://apps.ankiweb.net).
 
-##![image](https://user-images.githubusercontent.com/124373744/220814583-37fae41c-1265-4ac1-a50b-7531c8a53575.png)
-
+##
 
 ### 💻 Como instalar o Anki e usar no seu computador?
 
