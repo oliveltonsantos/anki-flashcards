@@ -28,7 +28,7 @@ O processo de instalação pode ser um pouco diferente dependendo do sistema ope
 
 2 - Extraia os arquivos do download.
 
-3 - No aplicativo Anki clique na opção "Importar arquivo", selecione o arquivo "Code.apkg" e agora basta esperar terminar o processo de importação.
+3 - No aplicativo Anki clique na opção "Importar arquivo", selecione o arquivo "HTML_CSS.apkg" e agora basta esperar terminar o processo de importação.
 
 ##
 
