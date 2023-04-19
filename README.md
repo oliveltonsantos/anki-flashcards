@@ -34,4 +34,4 @@ O processo de instalação pode ser um pouco diferente dependendo do sistema ope
 
 ### 📱 Acompanhe a minha jornada:
 
-[Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos) | [Medium](https://medium.com/@olivelton.santos)
+[clique aqui!](https://oliveltonsantos.github.io/card-links/) 
