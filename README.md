@@ -29,9 +29,3 @@ O processo de instalação pode ser um pouco diferente dependendo do sistema ope
 2 - Extraia os arquivos do download.
 
 3 - No aplicativo Anki clique na opção "Importar arquivo", selecione o arquivo "HTML_CSS.apkg" ou "JAVASCRIPT.apkg" e agora basta esperar terminar o processo de importação.
-
-##
-
-### 📱 Acompanhe a minha jornada:
-
-[clique aqui!](https://oliveltonsantos.github.io/card-links/) 
